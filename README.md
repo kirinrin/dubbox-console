@@ -1,3 +1,5 @@
+PS：该版本添加了console的支持。
+
 Dubbox now means Dubbo eXtensions. If you know java, javax and dubbo, you know what dubbox is :)
 
 Dubbox adds features like RESTful remoting, Kyro/FST serialization, etc to the popular [dubbo service framework](http://github.com/alibaba/dubbo). It's been used by several projects of [dangdang.com](http://www.dangdang.com), which is one of the major e-commerce companies in China.
@@ -174,7 +176,7 @@ Dubbox adds features like RESTful remoting, Kyro/FST serialization, etc to the p
     <version>2.3.3</version>
 </dependency>
 ```
-   
+
 ## FAQ（暂存）
 
 ### Dubbox需要什么版本的JDK？
